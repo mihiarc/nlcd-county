@@ -12,5 +12,4 @@
 /landcover_analysis_report.txt
 
 # Generated visualizations
-*.png
 *.html
