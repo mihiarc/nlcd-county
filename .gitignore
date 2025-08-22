@@ -1,6 +1,16 @@
-/Annual_NLCD_LndCov_2024_CU_C1V1
+# Data folders
+/Annual_NLCD_LndCov_2024_CU_C1V1/
+/tl_2024_us_county/
+
+# Data files
 /Annual_NLCD_LndCov_2024_CU_C1V1.xml
+
+# Generated CSV outputs
 /county_landcover_proportions.csv
 /regional_landcover_summary.csv
 /state_landcover_summary.csv
-/tl_2024_us_county
+/landcover_analysis_report.txt
+
+# Generated visualizations
+*.png
+*.html
